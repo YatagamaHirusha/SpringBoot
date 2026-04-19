@@ -1,0 +1,12 @@
+[submodule "Student-Management-System"]
+	path = Student-Management-System
+	url = https://github.com/YatagamaHirusha/Student-Management-System.git
+[submodule "Restaurant-Management-System"]
+	path = Restaurant-Management-System
+	url = https://github.com/YatagamaHirusha/Restaurant-Management-System.git
+[submodule "Order-Management-System---Microservices"]
+	path = Order-Management-System---Microservices
+	url = https://github.com/YatagamaHirusha/Order-Management-System---Microservices.git
+[submodule "Library-Management-System"]
+	path = Library-Management-System
+	url = https://github.com/YatagamaHirusha/Library-Management-System.git
